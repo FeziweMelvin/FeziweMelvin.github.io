@@ -1,6 +1,6 @@
 ---
 date: '2022-10-01'
-title: 'Everytown Gun Law Rankings'
+title: 'Credit card Fraud detection'
 github: 'https://github.com/FeziweMelvin/Credit-card-fraud'
 external: ''
 tech:
