@@ -17,6 +17,8 @@
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "prepare": "husky install",
