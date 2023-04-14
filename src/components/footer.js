@@ -106,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/FeziweMelvin/personal_website_v1">
-          <div>Designed &amp; Built by Feziwe M Shongwe based on Brittany Chiang's Design</div>
+          <div>Designed &amp; Built by Feziwe M Shongwe</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
