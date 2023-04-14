@@ -1,11 +1,7 @@
 
 ## 🚨 Forking this repo (please read!)
 
-I have forked this repository from github.com/bchiang7 , creditd to her.
-
-### TL;DR
-
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+I have forked this repository from [brittanychiang.com](https://brittanychiang.com) , credits to her.
 
 ## 🛠 Installation & Set Up
 
