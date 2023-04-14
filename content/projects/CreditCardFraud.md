@@ -1,5 +1,5 @@
 ---
-date: '2022-10-'
+date: '2022-10-01'
 title: 'Everytown Gun Law Rankings'
 github: 'https://github.com/FeziweMelvin/Credit-card-fraud'
 external: ''
