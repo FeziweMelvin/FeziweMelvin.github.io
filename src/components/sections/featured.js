@@ -361,7 +361,8 @@ const Featured = () => {
         Some Things I’ve Built
       </h2>
 
-      <h3>Nothing For Now 😶, Coming Soon!</h3>
+      <h3>Check Out My <a href="https://github.com/FeziweMelvin">
+          GitHub </a>😊</h3>
 
       {/* <StyledProjectsGrid>
         {featuredProjects &&
