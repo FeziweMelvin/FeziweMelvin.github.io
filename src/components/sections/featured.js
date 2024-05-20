@@ -361,7 +361,7 @@ const Featured = () => {
         Some Things I’ve Built
       </h2>
 
-      <h3>Check Out My <a href="https://github.com/FeziweMelvin">
+      <h3>Check Out My <a href="https://github.com/FeziweMelvin" target="_blank" rel="noreferrer">
           GitHub </a>😊</h3>
 
       {/* <StyledProjectsGrid>
