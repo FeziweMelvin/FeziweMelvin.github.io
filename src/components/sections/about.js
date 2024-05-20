@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Cloud Computing (AWS)','JavaScript (ES6+)', 'React', 'Java','Python', 'Data Science'];
+  const skills = ['Cloud Computing (AWS)','JavaScript (ES6+)', 'React', 'Java','Python','Node.JS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,11 +135,11 @@ const About = () => {
         <StyledText>
           <div>
             <p align="justify">
-            Feziwe is highly focused, flexible, innovative, and enthusiastic Cum Laude Graduate in Computer Science
-            and Mathematical Statistics Degree obtained from the University of Western Cape, with a strong interest in
-             the Data Science and Cloud Computing fields. He is in completion of his postgraduate degree 
-             (BSc Hons Computer Science with a specialization in Big Data Analytics) from the University of the Witwatersrand. 
-             Furthermore, He holds an AWS Cloud Practitioner Certificate.
+            Feziwe is a highly motivated and adaptable professional with a robust academic background 
+            in Computer Science and Mathematical Statistics. Passionate about Software Engineering and 
+            Cloud Computing, he has proactively enhanced his expertise by earning an AWS Cloud Practitioner 
+            Certification and is currently pursuing AWS Solution Architect Associate and AWS Developer Associate 
+            certifications.
 
 
               {/* Hello! My name is Brittany and I enjoy creating things that live on the internet. My
@@ -149,16 +149,25 @@ const About = () => {
             </p>
 
             <p align="justify">
-            He has worked on projects in a variety of computer science fields, including machine learning, natural language processing,
-            computer vision, reinforcement learning, statistical modelling, and so on. He is well-versed in Python, R-Lang, and SAS for data modeling and analysis. 
-            He also has a basic understanding of software engineering and blockchain technology.
+
+            Feziwe's diverse project portfolio spans multiple computer science domains, including software 
+            development, machine learning, natural language processing, computer vision, reinforcement learning, 
+            and statistical modeling. He is proficient in Python, R, and SAS for data modeling and analysis, and 
+            has a solid understanding of software engineering and blockchain technology. Additionally, he is 
+            experienced in Java, JavaScript, React Framework, Node.js, and other languages and frameworks used 
+            in past projects. Mostly, he has worked as a Full Stack Developer with a focus on back-end development.
             </p>
             
             <p align="justify">
             
-            He is currently working as a Business and Architecture Analyst at <a href="https://accenture.com/" target="_blank" rel="noreferrer">
-          Accenture
-        </a>, primarily focusing on Amazon Web Services (AWS) as a Cloud Engineer, acquiring knowledge in the technology division to expand capabilities and explore new problem-solving methodologies.
+            Currently, Feziwe works as a Business and Architecture Analyst at <a href="https://accenture.com/" target="_blank" rel="noreferrer">
+          Accenture </a>, focusing on Amazon Web Services (AWS) as a Cloud Engineer. In this role, he is instrumental in developing, and 
+        maintaining scalable and efficient cloud-based solutions. He implements software applications that leverage AWS services
+         to ensure high availability, reliability, and security. Collaborating closely with cross-functional teams, he understands
+          project requirements, designs system architectures, and selects appropriate AWS services to meet business objectives. 
+          Additionally, he optimizes software performance, monitors system health, and troubleshoots issues to ensure seamless cloud operation. 
+          His expertise in software engineering principles and deep knowledge of AWS technologies drive innovation and deliver impactful solutions 
+          that empower businesses to thrive in the digital era
               {/* Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
               <a href="https://starry.com/">a start-up</a>,{' '}

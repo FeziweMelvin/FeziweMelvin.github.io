@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Feziwe Shongwe',
     description:
-      'Data Science and Cloud Computing Enthusiast',
+      'Cloud and Software Engineer',
     siteUrl: 'https://feziweshongwe.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@FeziweMelvin',
