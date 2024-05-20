@@ -61,17 +61,16 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Feziwe M Shongwe.</h2>;
-  const three = <h3 className="big-heading">Data Science and Cloud Computing Enthusiast</h3>;
+  const three = <h3 className="big-heading">Cloud &amp; Software Engineer</h3>;
   const four = (
     <>
-      {/* <p>
-        I’m a Cloud engineer (AWS) specializing (Data &amp; AI). 
-        Currently, I’m a Business and Architecture Integration Analyst (AWS) at{' '}
-        <a href="https://accenture.com/" target="_blank" rel="noreferrer">
-          Accenture
-        </a>
-        .
-      </p> */}
+<p>
+  I’m a Cloud Engineer specializing in Software Development at 
+  <a href="https://accenture.com/" target="_blank" rel="noreferrer">Accenture</a>. 
+  With a background in Computer Science and Mathematical Statistics, I am skilled in Java, 
+  JavaScript, React, Node.js, Python, and various other frameworks. My expertise spans cloud computing, 
+  machine learning, and full stack development, with a strong focus on back-end solutions.
+</p>
     </>
   );
   // const five = (
