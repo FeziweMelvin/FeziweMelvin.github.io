@@ -195,7 +195,7 @@ const About = () => {
           </ul>
         </StyledText>
 
-        <StyledPic>
+        {/* <StyledPic>
           <div className="wrapper">
             <StaticImage
               className="img"
@@ -206,7 +206,7 @@ const About = () => {
               alt="Headshot"
             />
           </div>
-        </StyledPic>
+        </StyledPic> */}
       </div>
     </StyledAboutSection>
   );
