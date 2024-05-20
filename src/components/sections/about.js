@@ -132,7 +132,7 @@ const About = () => {
       <h2 className="numbered-heading">About </h2>
 
       <div className="inner">
-        <StyledText>
+        {/* <StyledText> */}
           <div>
             <p align="justify">
             Feziwe is a highly motivated and adaptable professional with a robust academic background 
@@ -193,7 +193,7 @@ const About = () => {
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
           </ul>
-        </StyledText>
+        {/* </StyledText> */}
 
         {/* <StyledPic>
           <div className="wrapper">
