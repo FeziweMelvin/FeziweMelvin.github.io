@@ -64,7 +64,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">Cloud &amp; Software Engineer</h3>;
   const four = (
     <>
-<p>
+<p align="justify">
   I’m a Cloud Engineer specializing in Software Development at 
   <a href="https://accenture.com/" target="_blank" rel="noreferrer">Accenture</a>. 
   With a background in Computer Science and Mathematical Statistics, I am skilled in Java, 

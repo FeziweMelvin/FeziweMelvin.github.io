@@ -294,7 +294,7 @@ const Jobs = () => {
                       </span>
                     </h3>
 
-                    <p className="range">{range}</p>
+                    <p className="range" align="justify">{range} </p>
 
                     <div dangerouslySetInnerHTML={{ __html: html }} />
                   </StyledTabPanel>
